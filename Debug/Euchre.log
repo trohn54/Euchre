@@ -1,0 +1,4 @@
+﻿  Euchre.cpp
+C:\Users\toejo\source\repos\Euchre\Euchre\Euchre.cpp(35,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\toejo\source\repos\Euchre\Euchre\Euchre.cpp(75,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Euchre.vcxproj -> C:\Users\toejo\source\repos\Euchre\Debug\Euchre.exe
